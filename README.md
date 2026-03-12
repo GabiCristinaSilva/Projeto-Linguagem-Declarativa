@@ -1,1 +1,1 @@
-# Projeto-Linguagem-Declarativa
+# Paradigmas em Phyton
